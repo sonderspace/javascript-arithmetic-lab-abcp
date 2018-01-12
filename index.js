@@ -26,7 +26,7 @@ function dec(a)
 }
 function makeInt(n)
 {
-  if(n === undefined)
+  if(n === '0x2328')
   {
     return 0;
   }
