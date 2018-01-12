@@ -46,7 +46,7 @@ function preserveDecimal(n)
   {
     return parseFloat(n);
   }
-  else if(isNaN(n) === true)
+  else if(n === true)
   {
     return true
   }
